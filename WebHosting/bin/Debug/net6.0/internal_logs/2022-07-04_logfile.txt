@@ -1,0 +1,16 @@
+2022-07-04 17:12:22.1065 INFO === Informacion desde david ===
+2022-07-04 17:12:22.1412 DEBUG === Advertencia desde david ===
+2022-07-04 17:12:22.1412 DEBUG === Debung desde david ===
+2022-07-04 17:12:22.1412 ERROR === Error desde de david ===
+2022-07-04 17:15:10.6395 INFO === Informacion desde david ===
+2022-07-04 17:15:10.6570 DEBUG === Advertencia desde david ===
+2022-07-04 17:15:10.6727 DEBUG === Debung desde david ===
+2022-07-04 17:15:10.6727 ERROR === Error desde de david ===
+2022-07-04 17:16:10.2731 INFO === Informacion desde david ===
+2022-07-04 17:16:10.2731 DEBUG === Advertencia desde david ===
+2022-07-04 17:16:10.2731 DEBUG === Debung desde david ===
+2022-07-04 17:16:10.2731 ERROR === Error desde de david ===
+=== Informacion desde david ===
+=== Advertencia desde david ===
+=== Debung desde david ===
+=== Error desde de david ===

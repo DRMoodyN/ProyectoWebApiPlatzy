@@ -1,0 +1,4 @@
+2022-07-04 17:03:58.7120 INFO === Informacion desde david ===
+2022-07-04 17:03:58.7877 DEBUG === Advertencia desde david ===
+2022-07-04 17:03:58.7877 DEBUG === Debung desde david ===
+2022-07-04 17:03:58.7877 ERROR === Error desde de david ===
